@@ -112,5 +112,5 @@ This project is open-source and free to use under the MIT License.
 ---
 
 > ⭐ Star the repo if you find it useful, and share your learning journey on LinkedIn!
-v
+
 
